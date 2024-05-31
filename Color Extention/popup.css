@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 250px;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+#colorPicker {
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.color-display {
+    width: 100px;
+    height: 100px;
+    margin: 20px auto;
+    border: 2px solid #000;
+    background-color: #ffffff;
+}
+
+#colorCode {
+    font-size: 18px;
+    margin-top: 10px;
+}
